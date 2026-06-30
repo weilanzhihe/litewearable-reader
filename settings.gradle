@@ -1,0 +1,2 @@
+rootProject.name = 'liteReader'
+include ':entry'
